@@ -57,7 +57,7 @@ module.exports = {
     },
     {
       name: 'blog',
-      link: 'https://blognalanyinyun.top',
+      link: 'https://blog.nalanyinyun.top',
     },
   ],
 
